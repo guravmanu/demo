@@ -1,2 +1,5 @@
 list
 tuple
+str
+dict
+polymorphism
