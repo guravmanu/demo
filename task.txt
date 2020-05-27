@@ -3,3 +3,6 @@ tuple
 str
 dict
 polymorphism
+files
+function
+class
